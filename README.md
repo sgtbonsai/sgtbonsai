@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with learning C#
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to code
-- 🖥️ [https://sgtbonsai.github.io/home/](My website)
+- 🖥️ [My website](https://sgtbonsai.github.io/home/)
 
 ### Technologies I know
 <div align = "center">
